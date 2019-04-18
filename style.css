@@ -1,0 +1,19 @@
+h1 {
+
+}
+
+p{ 
+    font-size: 15pt;
+    
+}
+
+body {
+    margin-left: 30px;
+    margin-right: 30px; 
+    width: 700px;
+}
+
+div{
+    text-align: justify;
+  text-justify: inter-word;
+}
